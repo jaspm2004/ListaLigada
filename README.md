@@ -1,4 +1,4 @@
-# ListaLigada
+# Lista Ligada
 
 Implementação em Java de lista ligada e funções de uso comum.
 
